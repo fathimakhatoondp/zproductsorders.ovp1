@@ -40,4 +40,7 @@ Products Orders Over View Page Floorplan
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+## Application Output
 
+###Initial Output showing different OVP cards
+![OVPCards](docs/OVPCards-Products.png)
